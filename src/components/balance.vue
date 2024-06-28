@@ -10,7 +10,7 @@
         }"
         ><i class="iconfont icon-fanhui"></i
       ></router-link>
-      <span>我的余额</span>
+      <span>我的余额1</span>
       <span></span>
     </div>
     <section id="section1">
